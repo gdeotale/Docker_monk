@@ -1,0 +1,6 @@
+1. Unzip yolov5.7x
+2. Unzip mmdetection.7z
+3. Download models from https://drive.google.com/drive/folders/1L4mGp67kDjjcb98EOGoRbG0FXqBwd3XS?usp=sharing  and keep it inside model folder
+4. create test folder with inputimages and output folder
+5. build inference docker using ./test_run.sh
+6. to train model, build docker using docker_main, Go inside docker using run command and then run MMDet_Tutorial1.ipynb
