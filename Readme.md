@@ -5,6 +5,4 @@
 5. build inference docker using ./test_run.sh
 6. to train model, build docker using docker_main, Go inside docker using run command and then run MMDet_Tutorial1.ipynb
 
-  
-
-
+![Image](utils/hyperparameter.png)
