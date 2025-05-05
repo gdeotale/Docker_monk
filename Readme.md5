@@ -6,4 +6,4 @@
 6. to train model, build docker using docker_main, Go inside docker using run command and then run MMDet_Tutorial1.ipynb
 
 # Information related to hyperparameter
-![Image](https://github.com/gdeotale/Docker_monk/blob/main/Screenshot%202025-05-05%20153338.png)
+![Image](utils/hyperparameter.png)
